@@ -1,6 +1,6 @@
 👋 Hi, I’m **Muditya Raghav (@MudityaQQ)**
 
-- 👀 I’m interested in:
+- 🧑🏻‍💻 Work Domains:
   - Low Latency Systems using C++
   - Real-Time Systems using webRTC, React, TypeScript
   - Go/Rust - High-Frequency Trading Systems
