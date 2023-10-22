@@ -1,4 +1,4 @@
-👋 Hi, I’m **Muditya Raghav (@MudityaQQ)**
+👋 Hi, I’m **Muditya Kumar (@MudityaQQ)**
 
 - 🧑🏻‍💻 Work Domains:
   - Low Latency Systems using C++
